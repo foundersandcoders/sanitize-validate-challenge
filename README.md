@@ -6,7 +6,7 @@ Web applications commonly receive user input and display it on the page. For exa
 
 Make sure you have Git and Node (v18) installed.
 
-1. Clone this repo and `cd` into the directory
+1. [Use this template](https://github.com/foundersandcoders/sanitize-validate-challenge/generate), clone your copy, cd into it
 1. Run `npm install` to install all the dependencies
 1. Run `npm run dev` to start the server.  
    This uses the `nodemon` library to auto-restart the server when you save changes.
